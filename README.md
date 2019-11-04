@@ -7,7 +7,7 @@ TA: Stefan Pelikan
 Subversive software / computers as a malleable material / Tool-making as creative practice
 
 - 10am to 1pm - Class
-- 2pm to 4pm - Office Hours with Fernando. Sign up here
+- 2pm to 4pm - Office Hours with Fernando.
 
 # Class 1: Monday, Oct 4th
 
