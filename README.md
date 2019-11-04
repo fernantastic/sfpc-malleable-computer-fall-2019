@@ -40,13 +40,6 @@ Let's look at some text-based creative tools and add poetry tools to our drawing
 
 Let's subvert existing software and use their APIs to change things around.
 
-- show you can use the API of any software you use to subvert it
-- you can make tools using existing tools so you don't need to write everything yourself
-- ways to do it
-    - photoshop api
-    - chrome extension
-    - google docs: script editor
-
 ### Homework / Future Steps
 
 - Gather what you've learnt and add more features to your tool, release it online and win internet points
