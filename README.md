@@ -1,18 +1,14 @@
-# Repo
-
 # The Malleable Computer
 
 Fernando Ramallo | SFPC Fall 2019
-
 fernando.ramallo@gmail.com
+TA: Stefan Pelikan
 
 Subversive software / computers as a malleable material / Tool-making as creative practice
 
 # Class 1
 
-Let's make a drawing app from scratch and add strange wonderful whimsical options for the user.
-
-A save button turns your tiny sketch into a tool!
+Intro to radical creative software. We'll make a drawing app from scratch and add strange/wonderful features for the user.
 
 ### References
 
