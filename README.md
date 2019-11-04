@@ -1,3 +1,5 @@
+# Repo
+
 # The Malleable Computer
 
 Fernando Ramallo | SFPC Fall 2019
@@ -8,27 +10,39 @@ Subversive software / computers as a malleable material / Tool-making as creativ
 
 # Class 1
 
-Make a drawing app from scratch and add strange wonderful whimsical options for the user.
+Let's make a drawing app from scratch and add strange wonderful whimsical options for the user.
 
-A save button turns your art into a tool
+A save button turns your tiny sketch into a tool!
 
 ### References
 
+- [Become a Great Artist in 10 seconds](http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=4987)  by Michael Brough, Andi McClure - abstract manipulator
 - [Electric Zine Maker](https://alienmelon.itch.io/electric-zine-maker) by Natalie Lawhead
 zine making
     - [turn your zine into a website](https://jeremyoduber.itch.io/js-zine)
+- [flickgame](https://www.flickgame.org/) by increpare - web based draw and click-on-a-color adventure
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) by lexaloffle - virtual games console with built-in editor
-- [TEXTREME](https://le-von.itch.io/textreme) -  ****juicy text editor
 - [BFXR](https://www.bfxr.net/) by increpare - create sound effects with lots of sliders
 - [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil) by terry cavanagh- music editor
-- [flickgame](https://www.flickgame.org/) by increpare - web based draw and click-on-a-color adventure
 - [puzzlescript](https://www.puzzlescript.net/) by increpare - puzzle game engine w/ editor
 - [sok-stories](https://www.puzzlescript.net/) by sokpop - simple story game creator
-- [Become a Great Artist in 10 seconds](http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=4987)  by Michael Brough, Andi McClure - abstract manipulator
+
+### Homework
+
+- Add three tools to your drawing app (randomized brush, stamps, etc.). Have someone else use it and bring back 3 drawings they made to show the class.
 
 # Class 2
 
-Make an add-on for Google Docs to create poetry, utilizing their existing tools (format, pages, all your google docs).
+Let's look at some text-based creative tools and add poetry tools to our drawing app, to aid the player in creating beautiful words.
+
+### References
+
+- Creative Writer 2
+- [TEXTREME](https://le-von.itch.io/textreme) -  ****juicy text editor
+
+# Class 3
+
+Let's subvert existing software and use their APIs to change things around.
 
 - show you can use the API of any software you use to subvert it
 - you can make tools using existing tools so you don't need to write everything yourself
@@ -37,16 +51,6 @@ Make an add-on for Google Docs to create poetry, utilizing their existing tools 
     - chrome extension
     - google docs: script editor
 
-### References
+### Homework / Future Steps
 
-- APIs
-    - [Google Docs "Editor Add-ons" API](https://developers.google.com/gsuite/add-ons/concepts/types#editor_add-ons)
-    - [Extending Google Docs](https://developers.google.com/apps-script/guides/docs)
-    - "[Hacker's Guide to VLC](https://wiki.videolan.org/Hacker_Guide/)"
-    - [Photoshop scripting](https://www.adobe.com/devnet/photoshop/scripting.html)
-- Others
-    - [Useless Chrome Extensions](https://github.com/mattpiccolella/useless-chrome-extensions)
-
-# Class 3
-
-Using an existing generative text script, convert it into a tool for others to use.
+- Gather what you've learnt and add more features to your tool, release it online and win internet points
