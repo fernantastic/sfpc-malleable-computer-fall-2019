@@ -34,7 +34,7 @@ Let's look at some text-based creative tools and add poetry tools to our drawing
 ### References
 
 - Creative Writer 2
-- [TEXTREME](https://le-von.itch.io/textreme) -  ****juicy text editor
+- [TEXTREME](https://le-von.itch.io/textreme)
 
 # Class 3
 
