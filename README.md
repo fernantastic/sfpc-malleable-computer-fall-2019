@@ -6,9 +6,15 @@ TA: Stefan Pelikan
 
 Subversive software / computers as a malleable material / Tool-making as creative practice
 
-# Class 1
+- 10am to 1pm - Class
+- 2pm to 4pm - Office Hours with Fernando. Sign up here
+
+# Class 1: Monday, Oct 4th
 
 Intro to radical creative software. We'll make a drawing app from scratch and add strange/wonderful features for the user.
+
+### Glitch Project
+[https://glitch.com/~sfpc-malleable-computer](https://glitch.com/~sfpc-malleable-computer)
 
 ### References
 
@@ -27,18 +33,18 @@ zine making
 
 - Add three tools to your drawing app (randomized brush, stamps, etc.). Have someone else use it and bring back 3 drawings they made to show the class.
 
-# Class 2
+# Class 2: Thursday, Oct 14th
 
-Let's look at some text-based creative tools and add poetry tools to our drawing app, to aid the player in creating beautiful words.
+We'll look at some text-based creative tools and make interactive poetry tools.
 
 ### References
 
 - Creative Writer 2
 - [TEXTREME](https://le-von.itch.io/textreme)
 
-# Class 3
+# Class 3: Thursday, Oct 21st
 
-Let's subvert existing software and use their APIs to change things around.
+We'll subvert existing software and use their APIs to change things around.
 
 ### Homework / Future Steps
 
