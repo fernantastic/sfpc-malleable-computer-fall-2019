@@ -43,3 +43,14 @@ Let's subvert existing software and use their APIs to change things around.
 ### Homework / Future Steps
 
 - Gather what you've learnt and add more features to your tool, release it online and win internet points
+
+### References
+
+- APIs
+    - [Google Docs "Editor Add-ons" API](https://developers.google.com/gsuite/add-ons/concepts/types#editor_add-ons)
+    - [Extending Google Docs](https://developers.google.com/apps-script/guides/docs)
+    - "[Hacker's Guide to VLC](https://wiki.videolan.org/Hacker_Guide/)"
+    - [Photoshop scripting](https://www.adobe.com/devnet/photoshop/scripting.html)
+- Others
+    - [Useless Chrome Extensions](https://github.com/mattpiccolella/useless-chrome-extensions)
+
