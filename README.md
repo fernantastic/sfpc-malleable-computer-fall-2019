@@ -48,6 +48,9 @@ We'll look at some text-based creative tools and make interactive poetry tools.
 - [David Bowie's Verbasizer](https://www.youtube.com/watch?v=H7Sgq0XoxPw)
 - [TEXTREME](https://le-von.itch.io/textreme)
 
+### Homework
+- Create a one page text (short poem, story, etc.) made in your own tool. Add brushes or editor features to create the writing or visual style you want.
+
 # Class 3: Thursday, Oct 21st
 
 We'll look at tools that have communities around them and learn how to serialize our tool's state to share it easily with a URL.
